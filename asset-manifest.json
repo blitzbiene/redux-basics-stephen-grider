@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/redux-basics-stephen-grider/static/js/main.5b6d280f.chunk.js",
+    "main.js.map": "/redux-basics-stephen-grider/static/js/main.5b6d280f.chunk.js.map",
+    "runtime-main.js": "/redux-basics-stephen-grider/static/js/runtime-main.62a94f13.js",
+    "runtime-main.js.map": "/redux-basics-stephen-grider/static/js/runtime-main.62a94f13.js.map",
+    "static/js/2.f56cf331.chunk.js": "/redux-basics-stephen-grider/static/js/2.f56cf331.chunk.js",
+    "static/js/2.f56cf331.chunk.js.map": "/redux-basics-stephen-grider/static/js/2.f56cf331.chunk.js.map",
+    "index.html": "/redux-basics-stephen-grider/index.html",
+    "static/js/2.f56cf331.chunk.js.LICENSE.txt": "/redux-basics-stephen-grider/static/js/2.f56cf331.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a94f13.js",
+    "static/js/2.f56cf331.chunk.js",
+    "static/js/main.5b6d280f.chunk.js"
+  ]
+}
